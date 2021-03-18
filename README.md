@@ -1,2 +1,2 @@
 # Instagram-Clone
-Instagram Clone using Parse Platform for Backend through AWS
+Instagram Clone using Parse Platform for Backend hosted on AWS
